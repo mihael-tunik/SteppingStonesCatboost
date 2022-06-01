@@ -1,0 +1,18 @@
+{
+    "basic_model": 
+    {
+         "iterations": 500, 
+         "depth": 5
+    },
+    "deep_model":
+    {
+        "iterations": 1000, 
+        "depth": 7
+    },
+    "very_deep_model":
+    {
+        "iterations": 2300, 
+        "depth": 8,
+        "learning_rate": 0.0075
+    }
+}
